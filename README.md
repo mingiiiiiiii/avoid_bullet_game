@@ -3,3 +3,5 @@
 flight game using pygame
 
 start game : in /code -> python3 main.py 
+
+read PDF!
